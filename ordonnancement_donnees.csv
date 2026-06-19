@@ -1,0 +1,44 @@
+Pièce,Phase,Désignation,Machine,T Unitaire (H),T Série (H)
+P1,10,Reprise n°1,TR3,0.02,0.4
+P1,20,Reprise n°2,CU5,0.035,0.5
+P1,30,Rectification,RE2,0.08,1.0
+P1,40,Reprise après rectif,CU6,0.02,1.5
+P2,10,Ebauche,CU3,0.2,6.0
+P2,20,Reprise n°1,TR1,0.06,1.0
+P2,30,Reprise n°2,CU1,0.07,1.0
+P2,40,Rectification,RE1,0.01,1.0
+P3,10,Ebauche,CU5,0.03,0.5
+P3,20,Tournage,TCN1,0.02,1.5
+P3,30,Rectification,RE1,0.01,1.0
+P4,10,Reprise,TR3,0.01,0.4
+P4,20,Rectification,RE2,0.03,1.0
+P5,10,Ebauche,CU5,0.03,0.5
+P5,20,Reprise n°1,TR1,0.055,1.0
+P5,30,Reprise n°2,CU1,0.04,1.0
+P5,40,Rectification,RE1,0.02,1.0
+P6,10,Tournage ébauche,TCN2,0.01,1.5
+P6,20,Reprise fraisage,CU5,0.02,0.5
+P6,30,Finition,CU6,0.03,1.5
+P7,10,Ebauche,CU5,0.03,0.5
+P7,20,Reprise n°1,TR1,0.06,1.0
+P7,30,Reprise n°2,CU1,0.04,1.0
+P7,40,Rectification,RE3,0.12,3.0
+P8,10,Ebauche,CU2,0.02,1.0
+P8,20,Reprise n°1,CU4,0.01,2.0
+P8,30,Reprise n°2,TR2,0.03,1.5
+P8,40,Reprise n°3,TR3,0.02,0.4
+P9,10,Tournage,TCN2,0.02,1.5
+P9,20,Reprise,CU6,0.02,1.5
+P10,10,Reprise n°1,TR3,0.03,0.4
+P10,20,Reprise n°2,TR2,0.01,1.5
+P10,30,Reprise n°3,CU2,0.02,1.0
+P11,10,Tournage,TCN1,0.03,1.5
+P11,20,Rectification n°1,RE3,0.13,3.0
+P11,30,Rectification n°2,RE1,0.01,1.0
+P12,10,Ebauche,CU2,0.02,1.0
+P12,20,Reprise n°1,TR2,0.02,1.5
+P12,30,Reprise n°2,CU4,0.01,2.0
+P13,10,Tournage,TCN2,0.02,1.5
+P13,20,Rectification partielle,RE2,0.04,1.0
+P13,30,Reprise n°1,CU5,0.01,0.5
+P13,40,Reprise n°2,CU6,0.02,1.5
